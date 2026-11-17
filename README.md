@@ -22,3 +22,7 @@ Python, Streamlit, FAISS, sentence-transformers, Groq API
 ## What I learned
 - Built a local RAG pipeline from scratch, handling Python environment setup and library compatibilities.
 - Integrated vector embeddings with semantic search and connected a high-speed LLM via Groq to provide accurate, cited answers.
+
+- <img width="1852" height="887" alt="image" src="https://github.com/user-attachments/assets/c574d321-ca86-4378-a0c9-bf5b218723ac" />
+
+
