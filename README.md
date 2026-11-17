@@ -25,4 +25,5 @@ Python, Streamlit, FAISS, sentence-transformers, Groq API
 
 - <img width="1852" height="887" alt="image" src="https://github.com/user-attachments/assets/c574d321-ca86-4378-a0c9-bf5b218723ac" />
 
+<img width="1822" height="881" alt="image" src="https://github.com/user-attachments/assets/781ffea9-ffb9-4a3a-a9fc-95bbb75907d7" />
 
